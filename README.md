@@ -1,2 +1,2 @@
-# FridaAchieng.github.io
-Data Science Projects
+# frida.github.io
+Data science projects that I have worked on.
